@@ -6,7 +6,7 @@
 /.cargo
 /.gomodcache
 /html
-/Infra.toml
+# /Infra.toml
 /Test.toml
 /testsys.kubeconfig
 /*.pem
